@@ -1,0 +1,14 @@
+﻿  Laboratorna3.cpp
+D:\University\ООП\Laboratorna3\Laboratorna3\Rectangle.h(17,41): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Rectangle.cpp
+D:\University\ООП\Laboratorna3\Laboratorna3\Rectangle.h(17,41): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\University\ООП\Laboratorna3\Laboratorna3\Rectangle.cpp(26,15): warning C4305: '/=': truncation from 'double' to 'float'
+D:\University\ООП\Laboratorna3\Laboratorna3\Rectangle.cpp(27,14): warning C4305: '/=': truncation from 'double' to 'float'
+D:\University\ООП\Laboratorna3\Laboratorna3\Rectangle.cpp(34,15): warning C4305: '/=': truncation from 'double' to 'float'
+D:\University\ООП\Laboratorna3\Laboratorna3\Rectangle.cpp(35,14): warning C4305: '/=': truncation from 'double' to 'float'
+D:\University\ООП\Laboratorna3\Laboratorna3\Rectangle.cpp(44,15): warning C4305: '*=': truncation from 'double' to 'float'
+D:\University\ООП\Laboratorna3\Laboratorna3\Rectangle.cpp(45,14): warning C4305: '*=': truncation from 'double' to 'float'
+D:\University\ООП\Laboratorna3\Laboratorna3\Rectangle.cpp(52,15): warning C4305: '*=': truncation from 'double' to 'float'
+D:\University\ООП\Laboratorna3\Laboratorna3\Rectangle.cpp(53,14): warning C4305: '*=': truncation from 'double' to 'float'
+  Generating Code...
+  Laboratorna3.vcxproj -> D:\University\ООП\Laboratorna3\x64\Debug\Laboratorna3.exe

@@ -1,0 +1,6 @@
+﻿  Laba2.cpp
+  Matrix.cpp
+D:\University\ООП\Laboratorna2\Laba2\Laba2\Matrix.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+D:\University\ООП\Laboratorna2\Laba2\Laba2\Matrix.cpp(81): warning C4715: 'Matrix::operator[]': not all control paths return a value
+  Laba2.vcxproj -> D:\University\ООП\Laboratorna2\Laba2\x64\Debug\Laba2.exe

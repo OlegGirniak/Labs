@@ -1,0 +1,5 @@
+﻿  Triangle.cpp
+D:\University\ООП\Laboratorna4\Laboratorna4\Triangle.cpp(35,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  TriangleInCircle.cpp
+  Generating Code...
+  Laboratorna4.vcxproj -> D:\University\ООП\Laboratorna4\x64\Debug\Laboratorna4.exe

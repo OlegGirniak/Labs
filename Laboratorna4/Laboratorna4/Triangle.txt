@@ -1,0 +1,9 @@
+___Triangle In Circle___
+--Circle--
+Radius: 2.5
+Square: 19.635
+--Triangle--
+Leg1: 3
+Leg2: 4
+Hipotenus: 5
+Square: 6
